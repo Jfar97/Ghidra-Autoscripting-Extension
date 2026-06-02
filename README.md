@@ -1,7 +1,6 @@
-# Ghidra-Autoscripting-Extension
 # AutoScripting (Ghidra Extension)
 
-AutoScripting is a Ghidra extension that runs a target script automatically when a program is opened. By default, it executes `Autoscript.py` from the `~/ghidra_scripts` directory.
+AutoScripting is a Ghidra extension that runs a target script automatically when a program is opened. By default, it executes `Autoscript.py` from the `~/ghidra_scripts` directory. The extension content exists inside Ghidra_Autoscripting_Extension.
 
 ## How It Works
 
